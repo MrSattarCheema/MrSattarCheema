@@ -1,6 +1,6 @@
 👋  Hi, I'm 𝐀𝐛𝐝𝐮𝐥 𝐒𝐚𝐭𝐭𝐚𝐫, I'm currently pursuing my Bachelor of Science in Information Technology at the 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝒐𝒇 𝒕𝒉𝒆 𝑷𝒖𝒏𝒋𝒂𝒃 in Lahore, Pakistan. 👨‍🎓
 
-😀 I am an 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐚𝐧𝐝 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with a passion for creating dynamic and engaging user experiences. 💻
+😀 I am a Game Developer with a passion for creating dynamic and engaging user games. 💻
 
 🏆 In addition to my experience, I have completed 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 (𝐂𝐈𝐓) from the 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝒐𝒇 𝑳𝒂𝒉𝒐𝒓𝒆, under the National Vocational and Technical Training Commission (𝐍𝐀𝐕𝐓𝐓𝐂). I have also developed a strong foundation in frontend web development, including expertise in 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, and 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭. 🌐🚀
 
